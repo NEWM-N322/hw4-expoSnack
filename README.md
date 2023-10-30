@@ -1,3 +1,7 @@
+# Homework 4 - Expo Snack Turned Local
+
+This is a snack I created on Expo, called homeworkone. I downloaded the Snack locally on my machine, and added all necessary dependencies in the project. Below I kept the original text created in the README, adding my own text in the beginning.
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
